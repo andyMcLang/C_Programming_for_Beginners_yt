@@ -1,0 +1,11 @@
+# ninja log v5
+3	334	7156364222621975	CMakeFiles/19_C_Recursion.dir/main.cpp.obj	4d5a0ffeff5d8b10
+335	486	7156364224087758	19_C_Recursion.exe	fc50d6f9780f9ac3
+6	383	7156368078460857	CMakeFiles/19_C_Recursion.dir/main.cpp.obj	4d5a0ffeff5d8b10
+383	531	7156368079891539	19_C_Recursion.exe	fc50d6f9780f9ac3
+5	369	7156375807598986	CMakeFiles/19_C_Recursion.dir/main.cpp.obj	4d5a0ffeff5d8b10
+369	516	7156375809014624	19_C_Recursion.exe	fc50d6f9780f9ac3
+4	383	7156380614255466	CMakeFiles/19_C_Recursion.dir/main.cpp.obj	4d5a0ffeff5d8b10
+383	525	7156380615623366	19_C_Recursion.exe	fc50d6f9780f9ac3
+5	330	7156382893251949	CMakeFiles/19_C_Recursion.dir/main.cpp.obj	4d5a0ffeff5d8b10
+331	483	7156382894737377	19_C_Recursion.exe	fc50d6f9780f9ac3
