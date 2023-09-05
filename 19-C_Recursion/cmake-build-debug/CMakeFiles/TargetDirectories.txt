@@ -1,3 +1,0 @@
-C:/yt_tutorials/C_Programming_for_Beginners/19-C_Recursion/cmake-build-debug/CMakeFiles/19_C_Recursion.dir
-C:/yt_tutorials/C_Programming_for_Beginners/19-C_Recursion/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/yt_tutorials/C_Programming_for_Beginners/19-C_Recursion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
