@@ -1,0 +1,3 @@
+C:/yt_tutorials/C_Programming_for_Beginners/HiekkalaatikkoC/cmake-build-debug/CMakeFiles/HiekkalaatikkoC.dir
+C:/yt_tutorials/C_Programming_for_Beginners/HiekkalaatikkoC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/yt_tutorials/C_Programming_for_Beginners/HiekkalaatikkoC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
