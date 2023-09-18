@@ -1,0 +1,25 @@
+# ninja log v5
+3	116	7167713182294429	CMakeFiles/25_C_Pointers_and_Functions.dir/main.c.obj	50bc8d30bd1932d3
+118	240	7167713183479425	25_C_Pointers_and_Functions.exe	7bc72ff928d99651
+3	133	7167737814436225	CMakeFiles/25_C_Pointers_and_Functions.dir/main.c.obj	50bc8d30bd1932d3
+134	268	7167737815739320	25_C_Pointers_and_Functions.exe	7bc72ff928d99651
+4	115	7167738245090563	CMakeFiles/25_C_Pointers_and_Functions.dir/main.c.obj	50bc8d30bd1932d3
+115	245	7167738246345609	25_C_Pointers_and_Functions.exe	7bc72ff928d99651
+3	130	7167739498819847	CMakeFiles/25_C_Pointers_and_Functions.dir/main.c.obj	50bc8d30bd1932d3
+130	256	7167739500035323	25_C_Pointers_and_Functions.exe	7bc72ff928d99651
+3	132	7167739838191555	CMakeFiles/25_C_Pointers_and_Functions.dir/main.c.obj	50bc8d30bd1932d3
+133	267	7167739839506837	25_C_Pointers_and_Functions.exe	7bc72ff928d99651
+3	124	7167740217473016	CMakeFiles/25_C_Pointers_and_Functions.dir/main.c.obj	50bc8d30bd1932d3
+125	253	7167740218714399	25_C_Pointers_and_Functions.exe	7bc72ff928d99651
+3	140	7167759217927305	CMakeFiles/25_C_Pointers_and_Functions.dir/main.c.obj	50bc8d30bd1932d3
+141	284	7167759219302813	25_C_Pointers_and_Functions.exe	7bc72ff928d99651
+3	120	7167759328332309	CMakeFiles/25_C_Pointers_and_Functions.dir/main.c.obj	50bc8d30bd1932d3
+121	252	7167759329597940	25_C_Pointers_and_Functions.exe	7bc72ff928d99651
+3	125	7167759403899672	CMakeFiles/25_C_Pointers_and_Functions.dir/main.c.obj	50bc8d30bd1932d3
+125	255	7167759405155673	25_C_Pointers_and_Functions.exe	7bc72ff928d99651
+3	163	7167762725727198	CMakeFiles/25_C_Pointers_and_Functions.dir/main.c.obj	50bc8d30bd1932d3
+163	293	7167762726962874	25_C_Pointers_and_Functions.exe	7bc72ff928d99651
+3	118	7167762820691358	CMakeFiles/25_C_Pointers_and_Functions.dir/main.c.obj	50bc8d30bd1932d3
+118	243	7167762821906462	25_C_Pointers_and_Functions.exe	7bc72ff928d99651
+3	124	7167763362126831	CMakeFiles/25_C_Pointers_and_Functions.dir/main.c.obj	50bc8d30bd1932d3
+125	262	7167763363468242	25_C_Pointers_and_Functions.exe	7bc72ff928d99651
