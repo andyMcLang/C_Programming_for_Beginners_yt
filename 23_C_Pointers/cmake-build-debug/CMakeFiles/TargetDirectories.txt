@@ -1,0 +1,3 @@
+C:/yt_tutorials/C_Programming_for_Beginners/23_C_Pointers/cmake-build-debug/CMakeFiles/23_C_Pointers.dir
+C:/yt_tutorials/C_Programming_for_Beginners/23_C_Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/yt_tutorials/C_Programming_for_Beginners/23_C_Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
