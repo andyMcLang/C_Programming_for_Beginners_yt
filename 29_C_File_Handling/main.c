@@ -13,31 +13,30 @@
     the content of the file
  */
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
     FILE *fptr;
 
-    fptr = fopen("NewFile.txt", "w");
+    fptr = fopen("program.txt", "w");
+
     if (fptr == NULL) {
-        printf("File Open Unsuccessfully!");
-        return 1;
+        printf("Error!");
+        exit(1);
     }
 
-    fputs("C is a fun programming language.\n", fptr);
-    fputs("And, I love using C language.\n", fptr);
+    fprintf(fptr, "C is a fun programming language.\n");
+
+    fprintf(fptr, "And, I love using C language.\n");
 
     fclose(fptr);
 
-    fptr = fopen("NewFile.txt", "r");
-    if (fptr == NULL) {
-        printf("File Open Unsuccessfully!");
-        return 1;
-    }
+    fptr = fopen("program.txt", "r");
 
-    char content[1000];
-
-    while (fgets(content, 1000, fptr)) {
-        printf("%s", content);
+    char c = fgetc(fptr);
+    while (c != EOF) {
+        printf("%c", c);
+        c = fgetc(fptr);
     }
 
     fclose(fptr);
