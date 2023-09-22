@@ -19,27 +19,28 @@ int main() {
     FILE *fptr;
 
     fptr = fopen("program.txt", "w");
-
     if (fptr == NULL) {
         printf("Error!");
         exit(1);
     }
 
     fprintf(fptr, "C is a fun programming language.\n");
-
     fprintf(fptr, "And, I love using C language.\n");
-
     fclose(fptr);
 
     fptr = fopen("program.txt", "r");
-
-    char c = fgetc(fptr);
-    while (c != EOF) {
-        printf("%c", c);
-        c = fgetc(fptr);
+    if (fptr == NULL) {
+        printf("Error!");
+        exit(1);
     }
 
+    char ch = fgetc(fptr);
+    while (ch != EOF) {
+        printf("%c", ch);
+        ch = fgetc(fptr);
+    }
     fclose(fptr);
+
 
     return 0;
 }
